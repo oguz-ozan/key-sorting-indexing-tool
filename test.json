@@ -1,0 +1,9 @@
+{
+    "dataFileName": "sample.dat",
+    "indexFileName" : "data.ndx",
+    "recordLength" : 64,
+    "keyEncoding": "BIN",
+    "keyStart": 13,
+    "keyEnd": 20,
+    "order": "ASC"
+}
