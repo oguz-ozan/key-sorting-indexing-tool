@@ -18,9 +18,15 @@ It displays a menu, in which you can select
 JSON File parameters can be:
 
 dataFileName: [some file path] (file to be indexed)
+
 indexFileName: [some empty or non-existing file path] (index file)
+
 recordLength: [some integer value] (this is simply needed, when we read the file as records)
+
 keyEncoding: BIN or CHR (this determines how keys are interpreted and sorted)
+
 keyStart: [some integer value] (index starting position in a record)
+
 keyEnd: [some integer value] (index ending position in a record)
+
 order: ASC or DESC (ordering of values)
