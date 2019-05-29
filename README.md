@@ -6,9 +6,13 @@ This is a simple key-sorting indexing tool, which creates an index file of a bin
 ## Using
 
 It displays a menu, in which you can select
+
 1- Parsing JSON file
+
 2- Creating index file
+
 3- Search with value(returns index of that record)
+
 4- Free memory and exit
 
 JSON File parameters can be:
