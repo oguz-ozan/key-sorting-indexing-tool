@@ -1,7 +1,9 @@
 # key-sorting-indexing-tool
-indexing with key-sorting approach and search
+## Introduction
 
 This is a simple key-sorting indexing tool, which creates an index file of a binary data file, with the properties of given JSON file.
+
+## Using
 
 It displays a menu, in which you can select
 1- Parsing JSON file
