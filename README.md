@@ -15,7 +15,7 @@ It displays a menu, in which you can select
 
 4- Free memory and exit
 
-### JSON File parameters can be:
+### JSON File parameters:
 
 dataFileName: [some file path] (file to be indexed)
 
